@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Bhuvan's cloud.</h2>
+			<h2>Welcome To Bhuvan's cloud. any clarification contact me</h2>
 			<h3>Contact @ +91-9524933505 </h3>
 		</div>	
 	</div>
